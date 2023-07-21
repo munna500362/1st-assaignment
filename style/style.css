@@ -1,0 +1,39 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.header-title{
+    display: flex;
+    background-color:rgba(229, 84, 115, 0.10);
+}
+
+.header-div{
+    padding: 100px 50px 0px 150px;
+}
+
+
+.header-text{
+    color: #272727;
+    font-size: 50px;
+    font-weight: 800;
+}
+.header-description{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.header-button{
+    color: #FFF;
+    background: #E55473;
+    display: inline-flex;
+    padding: 15px 30px;
+    border: none;
+    font-size: 15px;
+    font-weight: 700;
+    border-radius: 8px;
+}
+.header-imag{
+    width: 500px;
+    height: 530px;
+    padding: 50px 200px 0px 80px;
+}
