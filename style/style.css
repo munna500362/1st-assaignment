@@ -103,7 +103,7 @@ body{
 }
 .insta-img{
     display: flex;
-    margin: 10px 280px;
+    margin: 10px 245px;
    
 }
 .insta-img-section{
@@ -112,7 +112,24 @@ body{
    
 }
 .flower-section{
-    width: 185px;
+    width: 200px;
     height: 220px;
     display:cover;
+}
+
+/*instagram section end*/
+
+.last-section{
+    background-image: url('../image/Flower\ Asset/Rectangle 9.png');
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   border-radius: 8px;
+   width: 870px;
+   height: 289px;
+   margin:80px 245px 80px 245px;
+   
+}
+.box-text-section{
+    
 }
