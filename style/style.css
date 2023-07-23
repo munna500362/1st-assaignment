@@ -114,12 +114,16 @@ li{
    
 }
 .img-text1{
-    color: #272727;
+   
     margin-right: 160px;
     text-align: center;
     font-size: 18px;    
     font-weight: 700;
     line-height: 35px;
+}
+.text-img{
+    color: #272727;
+
 }
 .img-text2{
     color: #272727;
